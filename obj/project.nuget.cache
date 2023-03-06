@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Udzf45YkZMfeRqkB4I6Fp64anmkyDD+ZX5+KGu8wecC4wieHByjDPaOeTmqa0Y3XpU/W/TZEVCPKkwOkmoefQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-.NETCore3.1-Template\\YOUR_APP_NAME.YOUR_MODULE_NAME.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rando\\.nuget\\packages\\dotenv.net\\2.1.1\\dotenv.net.2.1.1.nupkg.sha512",
+    "C:\\Users\\rando\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rando\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rando\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rando\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\rando\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
